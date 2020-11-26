@@ -1,5 +1,5 @@
 {
-    "name": "ipinfo/ipinfolaravel",
+    "name": "ogestor/ipinfolaravel",
     "description": "The official Laravel library for IPinfo, the most reliable, accurate, and in-depth source of IP address data available anywhere. We process terabytes of data to produce our custom IP geolocation, company, carrier and IP type data sets. Visit our developer docs at https://ipinfo.io/developers.",
     "license": "Apache-2.0",
     "authors": [
@@ -12,7 +12,7 @@
     "homepage": "https://github.com/ipinfo/ipinfolaravel",
     "keywords": ["Laravel", "ipinfolaravel"],
     "require": {
-        "illuminate/support": "~5",
+        "illuminate/support": "^6.0",
         "ipinfo/ipinfo": "^1.0@dev"
     },
     "require-dev": {
